@@ -1,0 +1,13 @@
+.creditCard__input {
+    display: flex;
+}
+
+.creditCard__input--field {
+    margin-right: 5px;
+    width: 50px;
+}
+
+.creditCard__img {
+    width: 45px;
+    margin-right: 5px;
+}
